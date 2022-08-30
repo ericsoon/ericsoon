@@ -1,6 +1,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericsoon&layout=compact&hide=python&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Eric Soon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ericsoon&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Eric Soon's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ericsoon&theme=github_dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🔗 Links
 
